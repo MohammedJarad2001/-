@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+section{
+
+
+height: 100vh;
+background-image: url(../images/lern.jpg);
+object-fit: cover;
+background-repeat: no-repeat;
+background-size: cover;
+
+
+
+}
+
+
+
+header{
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 35px 60px ;
+  color: white;
+  /* background-color: #ddd; */
+
+
+
+
+
+}
+
+
+ul li{
+
+  list-style: none;
+  display: inline-block;
+  margin-left: 30px;
+
+
+
+  }
+  
+  a{
+
+
+   text-decoration: none;
+   color: white;
+   font-size: 20px;
+
+
+  }
+
+
+span{
+
+  color: rgba(76, 76, 248, 0.844);
+  
+
+
+}
+.home{
+
+  color: rgba(76, 76, 248, 0.844);
+
+
+
+}
+
+.a{
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 23px;
+
+
+
+}
+h1{
+
+
+font-size: 80px;
+color: white;
+margin-bottom: 25px;
+font-family:cursive;
+
+
+
+}
+
+.content{
+
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+margin-top: 250px;
+color: white;
+
+
+
+
+}
+p{
+
+margin-bottom: 10px;
+font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+color: rgba(255, 255, 255, 0.716);
+
+}
+
+
+button{
+
+
+padding: 10px 35px;
+margin-top: 7px;
+background-color:rgba(76, 76, 248, 0.844);
+color: white;
+border: none;
+border-radius: 5px;
+
+
+
+
+}
+
+
+.ccc:hover{
+
+
+color: black;
+transition-duration: 0.2s ;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
